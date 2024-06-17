@@ -20,9 +20,8 @@ Additionally, the project aims to provide recommendations for potential price ad
 Data Provided:
 
 Sales data for Joe's Bike Shop from 2021 and 2022
-Cost of goods sold (COGS) data
 
-The dataset provided has been attached.
+Cost of goods sold (COGS) data
 
 Analysis Workflow:
 
